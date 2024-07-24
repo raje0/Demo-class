@@ -1,2 +1,2 @@
 # Demo-class
-It is a demo folder
+It is a demo folder.
